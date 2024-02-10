@@ -4,16 +4,26 @@
 
 > Illustrator 2023, Photoshop CC 2023
 
-### Logos pour l'infasso :
+### Logos pour l'infasso (BDE de la promo INFO du BUT d'Orléans ):
 
 ![logo_infasso_v2!](data/panda_logo_business.png)
 
 Proposition retenu (logo actuelle de l'infasso) : 
 ![logo_infasso_v1!](data/LOGO_INFASSO_2023.png)
 
-### Logo pour une marque de vêtement "Et Moi?"
+Rebranding adapté aux vêtements infasso avec broderie 
+
+![logo_infasso_vetement!](data/BRAND_INFASSO_WHITE.png)
+
+![mockup_1_infasso_vetement!](data/INFASSO_TEES_BLACK.png)
+
+![mockup_1_infasso_vetement!](data/INFASSO_TEES_WHITE.png)
+
+
+### Logo pour une marque de vêtement intitulé"Et Moi?"
 
 À venir
+
 
 ## Affiche
 
@@ -24,6 +34,9 @@ Proposition retenu (logo actuelle de l'infasso) :
 ![soiree_bonne_pioche!](data/affiche_s_bonnepioche.png)
 
 ![aff_tournoi_valo!](data/affiche_t_valo_1.png)
+
+![aff_tournoi_rl!](data/affiche_t_RL)
+
 
 ## Vidéos
 
