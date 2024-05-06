@@ -43,11 +43,12 @@ Rebranding adapté aux vêtements infasso avec broderie
 >Adobe After Effects 2022
 
 (qualité compressée pour git)
+
 ![video_tournoi_valo!](data/video_tournoi_valo.gif)
 
 Entraînement au mo-graph sur le thème de Chainsaw Man.
 
-![video_chainsaw_mograph!](data/chainsaw.gif)
+![video_chainsaw_mograph!](data/chainsaw_mograph.gif)
 https://www.youtube.com/shorts/xOS6g6sqtVI
 
 Hommage à un personnage du film "MADE IN ABYSS : L'AURORE DE L'ÂME DES PROFONDEURS"
